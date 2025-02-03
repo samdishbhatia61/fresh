@@ -1,5 +1,5 @@
 {
-  "name": "lobster-app/fresh",
+  "name": "fresh",
   "description": "A PHP web application hosted on DigitalOcean",
   "require": {
     "php": ">=8.2",
