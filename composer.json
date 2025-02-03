@@ -6,5 +6,10 @@
             "Mint\\GoldfishApp\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "config": {
+        "platform": {
+            "php": "8.2.25"
+        }
+    }
 }
