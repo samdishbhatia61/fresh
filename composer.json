@@ -6,7 +6,9 @@
             "Mint\\GoldfishApp\\": "src/"
         }
     },
-    "require": {},
+    "require": {
+        "ext-gd": "*"
+    },
     "config": {
         "platform": {
             "php": "8.2.25"
