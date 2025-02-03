@@ -1,0 +1,10 @@
+{
+    "name": "mint/goldfish-app",
+    "description": "Normal File",
+    "autoload": {
+        "psr-4": {
+            "Mint\\GoldfishApp\\": "src/"
+        }
+    },
+    "require": {}
+}
